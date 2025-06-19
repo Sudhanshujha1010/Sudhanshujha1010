@@ -1,4 +1,4 @@
-## Hi there , I'm Sudhanshu Shekhar Jha 👋!
+## Hi, I'm Sudhanshu Shekhar Jha 👋!
 
 **🚀 Technical Skills** - 
 - **Languages** : Python, JavaScript, Java, C
